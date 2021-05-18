@@ -1,3 +1,5 @@
+def regex(string):
+    df.str.split("\(|\)", expand=True).iloc[:,[0,1]]
 
 def cleaning(string):
     hoods = ["manhattan","brooklyn","bronx", "queens", "staten island"]
