@@ -1,6 +1,5 @@
-def greater(string):
-    year = 2015
-    for w in years:
+def greater(param):
+    for w in param:
         if w > 2015: 
             return w
     else:
