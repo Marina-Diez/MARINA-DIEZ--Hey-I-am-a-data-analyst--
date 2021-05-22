@@ -25,6 +25,6 @@ After having a cleaning Dataset I enrich it in order to have restaurants and mon
 
 ### Visualization and conclusions
 I have than both bar chart and heat map for showing as best as posible our conclusion. A preview would be the following:
-![MONUMENTS](https://github.com/Marina-Diez/MARINA-DIEZ--Hey-I-am-a-data-analyst--/tree/master/Output/map_1.jpg)
+![MONUMENTS](https://github.com/Marina-Diez/MARINA-DIEZ--Hey-I-am-a-data-analyst--/blob/master/Output/map_1.jpg)
 
 **If you want further information of muy project, please visit it!**
