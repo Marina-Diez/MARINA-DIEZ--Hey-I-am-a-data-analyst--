@@ -1,6 +1,6 @@
 # PROJECT MODULE II
 
-![abnb](Images/map.jpg)
+![abnb](Images/map.jpg.jpg)
 
 # Finding Kaggle Dataset and enriching with scraping.
 The aim of this project is to find and enrich a dataset that we must select from different sources. I have decided to use the following kaggle dataset ["New York City Airbnb Open Data"](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) because is a information I´m familiar with, it is a clean dataset with high level of usability and  I can find articles and webs in order to enrich it.
