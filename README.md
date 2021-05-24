@@ -8,7 +8,7 @@ The aim of this project is to find and enrich a dataset that we must select from
 To achive all this I will follow nexts steps:
 >1. **Explore Kaggle Database**. And find the one that I will foccus on. I decided to use New York City Airbnb Open Data.
 >2. **Find usefull information to enrich my data conclusions** I decided to enrich my information with NY monuments data by using web scraping and NY restaurants API.
->2. **Think on a wire conductor**  What do I whant to support whith THIS info ?
+>2. **Think on a wire conductor**  What do I whant to support with this info ?
 >3. **Clean the dataset and the scraping info**. which are the usefull datas to find and support my hypothesis?
 >4. **Analyze the data**. 
 >5. **Make it visual**. For me and for our client to be understable
