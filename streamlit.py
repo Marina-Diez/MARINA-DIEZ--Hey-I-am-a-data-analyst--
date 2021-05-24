@@ -9,10 +9,10 @@ import codecs
 import streamlit.components.v1 as components
 
 st.write("""
-# NY REAL ESTATE AND RESTAURANTS 
+# NY AIRBNB 
 """)
 
-imagen = Image.open("Images/map.jpg.jpg")
+imagen = Image.open("Output/mapa.jpg")
 
 st.image(imagen)
 
