@@ -12,19 +12,24 @@ To achive all this I will follow nexts steps:
 >3. **Clean the dataset and the scraping info**. which are the usefull datas to find and support my hypothesis?
 >4. **Analyze the data**. 
 >5. **Make it visual**. For me and for our client to be understable
+>6. I will also give an approach of using the cleaned data sets in Mongo and Streamlit.
 
 ### Hypothesis to defend
-Our client is an entreperneur that whant to buy both, estate for condition them for renting and locals to conditions them for restaurants. 
+Our client is an entreperneur that whant to buy both, real estate for condition them for renting and locals to conditions them for restaurants. 
 All based in NY neighborhoods, and they want to know which are the best for each option.
 
 ### Exploring datasets and enriching information.
 I started with a clean dataset with the following shape (48895, 16), but with non usefull columns that I decided to drop and I also made some clening funtion in order to get my clean dataset with a shape of (37171,7).
 After having a cleaning Dataset I enrich it in order to have restaurants and monuments information.
 
-
-
 ### Visualization and conclusions
 I have done both bar chart and heat map for showing as best as posible our conclusion. A preview would be the following:
 ![MONUMENTS](Output/mapa.JPG)
 
+### Client Report
+Document that sum up all the conclusions achieved. 
+
 **If you want further information of muy project, please visit it!**
+
+### Aditional information
+I have use severals libraries in order to be able to analyze and me dada visual, suchs as: ["numpy"](https://numpy.org/), ["pandas"](https://pandas.pydata.org/) , ["regex"](https://regexr.com/), ["seaborn"](https://seaborn.pydata.org/index.html), ["matplotlib"](https://matplotlib.org/), ["folium"](https://python-visualization.github.io/folium/quickstart.html/), ["mongo"](https://docs.mongodb.com/php-library/v1.2/)
