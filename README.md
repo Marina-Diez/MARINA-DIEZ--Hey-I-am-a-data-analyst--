@@ -1,6 +1,6 @@
 # PROJECT MODULE II
 
-![abnb](Images/map.jpg.jpg)
+![abnb](Images/foto.jpg)
 
 # Finding Kaggle Dataset and enriching with scraping.
 The aim of this project is to find and enrich a dataset that we must select from different sources. I have decided to use the following kaggle dataset ["New York City Airbnb Open Data"](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) because is a information I´m familiar with, it is a clean dataset with high level of usability and  I can find articles and webs in order to enrich it.
@@ -32,4 +32,4 @@ Document that sum up all the conclusions achieved.
 **If you want further information of muy project, please visit it!**
 
 ### Aditional information
-I have use severals libraries in order to be able to analyze and me dada visual, suchs as: ["numpy"](https://numpy.org/), ["pandas"](https://pandas.pydata.org/) , ["regex"](https://regexr.com/), ["seaborn"](https://seaborn.pydata.org/index.html), ["matplotlib"](https://matplotlib.org/), ["folium"](https://python-visualization.github.io/folium/quickstart.html/), ["mongo"](https://docs.mongodb.com/php-library/v1.2/)
+I have use severals libraries in order to be able to analyze and make my data visual, suchs as: ["numpy"](https://numpy.org/), ["pandas"](https://pandas.pydata.org/) , ["regex"](https://regexr.com/), ["seaborn"](https://seaborn.pydata.org/index.html), ["matplotlib"](https://matplotlib.org/), ["folium"](https://python-visualization.github.io/folium/quickstart.html/), ["mongo"](https://docs.mongodb.com/php-library/v1.2/)
